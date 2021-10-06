@@ -215,5 +215,25 @@
                 "Black T-shirt"
             ]
         }
+    },
+    {
+        "customer": "Ramanjan Dutta",
+        "purchased": {
+            "grocery": [
+                "sugar",
+                "corn flakes",
+                "sauce",
+                "Sweet corn"
+            ],
+            "electronics": [
+                "Realme XT",
+                "ear-phone",
+                "Geforce Rtx 2060"
+            ],
+            "garments": [
+                "Black Joggers",
+                "Black T-shirt"
+            ]
+        }
     }
 ]
