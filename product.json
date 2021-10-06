@@ -118,5 +118,11 @@
         "category": "Beauty",
         "price": 280,
         "company": "Nivea"
-  }
+  },
+  {
+    "product": "Geforce Rtx 2060",
+    "category": "Electronics",
+    "price": 48000,
+    "company": "Nvidea"
+}
 ]
