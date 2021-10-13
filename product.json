@@ -124,5 +124,17 @@
     "category": "Electronics",
     "price": 48000,
     "company": "Nvidea"
-}
+},
+{
+    "product": "Razor Zeb Ultimate gaming mouse",
+    "category": "Electronics",
+    "price": 8000,
+    "company": "Razor"
+},
+{
+    "product": "Logitech g502 gaming mouse",
+    "category": "Electronics",
+    "price": 6000,
+    "company": "Logitech"
+},
 ]
