@@ -24,7 +24,7 @@
         "purchased": {
             "grocery": [
                 "sugar",
-                "salt",
+                "salt"
             ],
             "electronics": [
                 "Redmi Note-8",
@@ -42,7 +42,7 @@
         "purchased": {
             "books": [
                 "Romeo and Juliet",
-                "Othello",
+                "Othello"
             ],
             "jewellary": [
                 "Gold plated chain",
@@ -233,6 +233,16 @@
             "garments": [
                 "Black Joggers",
                 "Black T-shirt"
+            ]
+        }
+    },
+    {
+        "customer": "Raja Babu",
+        "purchased": {
+            "electronics": [
+                "Logitech g502",
+               "Zeb Transformer Combo",
+                "Gaming b550i Mobo"
             ]
         }
     }

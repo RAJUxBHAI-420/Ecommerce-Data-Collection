@@ -137,4 +137,22 @@
     "price": 6000,
     "company": "Logitech"
 },
+{
+    "product": "Gaming b550i Mobo",
+    "category": "Electronics",
+    "price": 14000,
+    "company": "Asus"
+},
+{
+    "product": "H510i Mini Itx",
+    "category": "Electronics",
+    "price": 7000,
+    "company": "Nzxt"
+},
+{
+    "product": "Zeb Transformer Combo",
+    "category": "Electronics",
+    "price": 2000,
+    "company": "Zebronics"
+},
 ]
