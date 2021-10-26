@@ -155,5 +155,11 @@
     "price": 2000,
     "company": "Zebronics"
 },
+    {
+    "product": "Chocolate extra dotted",
+    "category": "Medical",
+    "price": 200,
+    "company": "Durex"
+},
 }
 ]
